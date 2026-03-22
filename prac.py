@@ -1,4 +1,0 @@
-def sum():
-    pass
-
-sum()
