@@ -4,4 +4,7 @@ def sum(l):
         out+=i
     return out
 
-sum([3,4,5,6])
+out=sum([3,4,5,6])
+print(out)
+
+### NEW CHANGES#####
