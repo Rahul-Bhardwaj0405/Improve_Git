@@ -14,3 +14,11 @@ def mul():
 
 
 mul()
+
+
+
+def divide():
+    pass
+
+
+divide()
